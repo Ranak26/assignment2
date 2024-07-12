@@ -85,10 +85,14 @@ h2{
  .navbar .account-link {
      position: absolute;
      bottom: 20px;
-     width: 100%;
+     margin-left: 5px;
+    
  }
  #search{
     float: right;
     margin-top: 13px;
  }
- 
+ /* #table{
+    display: flex;
+    justify-content: stretch;
+ } */
